@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans.png" alt="COSL — Codemo Open Source Labs" width="620" />
+  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans-cropped.png" alt="COSL — Codemo Open Source Labs" width="620" />
 </p>
 
 <h1 align="center">Open source is learned by doing.</h1>
@@ -7,7 +7,7 @@
 <p align="center"><em>Free labs. Real projects. A community to build with.</em></p>
 
 <p align="center">
-  <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Join%20the%20COSL%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the COSL Discord community"></a>
+  <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Join%20us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join us on Discord"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20the%20Labs-262626?style=for-the-badge&logo=github&logoColor=white" alt="Explore COSL repositories"></a>
 </p>
