@@ -1,54 +1,43 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans.png" alt="Codemo Open Source Labs — COSL" width="720" />
+  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans.png" alt="COSL — Codemo Open Source Labs" width="620" />
 </p>
+
+<h1 align="center">Open source is learned by doing.</h1>
+
+<p align="center"><em>Free labs. Real projects. A community to build with.</em></p>
 
 <p align="center">
-  <a href="https://github.com/codemoteams"><img alt="Community driven" src="https://img.shields.io/badge/community-driven-5B2DA3?style=for-the-badge"></a>
-  <a href="https://github.com/orgs/codemoteams/repositories"><img alt="Open source learning" src="https://img.shields.io/badge/open--source-learning-7C3AED?style=for-the-badge"></a>
-  <a href="https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md"><img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-4C1D95?style=for-the-badge"></a>
+  <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Join%20the%20COSL%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the COSL Discord community"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20the%20Labs-262626?style=for-the-badge&logo=github&logoColor=white" alt="Explore COSL repositories"></a>
 </p>
 
-<h1 align="center">Codemo Open Source Labs</h1>
-<h3 align="center">Learn by building. Grow by contributing.</h3>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Free+labs.+Practical+skills.;Build+in+the+open.;Learn+together.+Contribute+back." alt="Free labs. Practical skills. Build in the open. Learn together. Contribute back." /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=6D4AFF&center=true&vCenter=true&width=680&lines=Start+curious.;Build+something+real.;Learn+in+public.;Leave+open+source+better." alt="Start curious. Build something real. Learn in public. Leave open source better." /></p>
 
 ---
 
-## Our mission
+## Why COSL exists
 
-**COSL exists to make open-source learning practical, welcoming, and accessible.** We create free opportunities for people to learn by doing: exploring real projects, experimenting with tools, developing useful skills, and collaborating with others.
+Open source can feel like a world you need permission or experience to enter. **Codemo Open Source Labs (COSL) is here to open that door.** We make free, hands-on learning experiences that help people move from reading about technology to building with it—and from building alone to contributing together.
 
-## Our purpose
+Our mission is simple: **make practical open-source learning accessible to everyone.** Our purpose is to grow confidence through practice, turn curiosity into capability, and help more people take part in the projects shaping our shared digital world.
 
-We believe the best way to understand open source is to participate in it. COSL aims to bridge the gap between learning and contribution by helping learners move from curiosity to confidence—one small, useful step at a time.
+### Learn → Make → Share
 
-- **Access:** learning opportunities should be welcoming and free to explore.
-- **Practice:** hands-on labs and real projects turn concepts into experience.
-- **Community:** respectful collaboration makes learning stronger for everyone.
-- **Contribution:** documentation, testing, ideas, and code all help open source grow.
+**Learn** through guided labs and experimentation. &nbsp; **Make** useful things with real tools and open projects. &nbsp; **Share** what you discover, contribute back, and help the next learner begin.
 
-## Get started
+We value openness, thoughtful craft, kindness, and progress over perfection. A first issue, a clearer sentence, a test, a question, or a feature can all be meaningful contributions.
 
-1. Explore the [COSL repositories](https://github.com/orgs/codemoteams/repositories).
-2. Read a project's README, documentation, and open issues before starting work.
-3. Pick a small first step: ask a question, improve docs, test a feature, or open an issue.
-4. Follow our [contribution guide](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) and [community rules](https://github.com/codemoteams/.github/blob/main/RULES.md).
+## Your first step
 
-## Community documents
+Browse the [COSL projects](https://github.com/orgs/codemoteams/repositories). Find a problem or topic that interests you, read the project notes, and start with one small improvement. If you’re new, that’s exactly fine—bring your questions and learn alongside the community.
 
-| Document | What it covers |
-| --- | --- |
-| [Contributing](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) | How to propose changes and contribute collaboratively |
-| [Community Rules](https://github.com/codemoteams/.github/blob/main/RULES.md) | Expected conduct and moderation principles |
-| [Legal & Usage Notes](https://github.com/codemoteams/.github/blob/main/LEGALIZATION.md) | General project, licensing, privacy, and disclaimer guidance |
+**[Join us on Discord](https://discord.gg/wD9d5Er7a)** to meet the community, ask questions, and find your next learning step.
 
-## Explore COSL
+## Community guide
 
-- [Website](https://codemoteams.org)
-- [All repositories](https://github.com/orgs/codemoteams/repositories)
-- [Contact the team](mailto:cosl@codemoteams.org)
+[Contributing](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) · [Community rules](https://github.com/codemoteams/.github/blob/main/RULES.md) · [Legal & usage notes](https://github.com/codemoteams/.github/blob/main/LEGALIZATION.md)
 
-<p align="center"><strong>Curiosity starts it. Practice builds it. Open source grows when we share it.</strong></p>
+[Website](https://codemoteams.org) · [GitHub projects](https://github.com/orgs/codemoteams/repositories) · [Email COSL](mailto:cosl@codemoteams.org)
 
-<p align="center"><sub>Made for learners, builders, and open-source contributors everywhere.</sub></p>
+<p align="center"><sub>Curiosity starts it. Practice builds it. Open source grows when we share it.</sub></p>
