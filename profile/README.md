@@ -26,11 +26,23 @@ Our mission is to make practical open-source learning accessible to everyone. Ou
 
 Learn through guided labs and experimentation. Make useful things with real tools and open projects. Share what you discover, contribute back, and help the next learner begin. We value openness, thoughtful craft, kindness, and progress over perfection. A first issue, a clearer sentence, a test, a question, or a feature can all be meaningful contributions.
 
-## Before contributing to a repository
+## Every repository: clear docs, clear expectations
 
-**Every COSL repository is its own project. Read that repository’s instructions before opening an issue or pull request.** Start with its `README.md`; then check its `docs/` directory, contribution guide, `RULES.md` or equivalent, `SECURITY.md`, and root `LICENSE` or other legal notices when present. File names and locations vary by project. Follow the current repository’s instructions and license; do not assume one project’s rules or license automatically apply to another.
+Each COSL repository should explain how to use, understand, and contribute to that project. Before opening an issue or pull request, read the repository’s `README.md` and its `docs/` directory, then follow its project-specific rules, security guidance, and license. Documentation file names and locations may vary; when information is missing or unclear, ask the maintainers before proceeding.
 
-For example, [Brave-Music’s docs folder](https://github.com/codemoteams/Brave-Music/tree/main/docs) includes its [contribution guide](https://github.com/codemoteams/Brave-Music/blob/main/docs/CONTRIBUTION.md), [project rules](https://github.com/codemoteams/Brave-Music/blob/main/docs/RULES.md), [security policy](https://github.com/codemoteams/Brave-Music/blob/main/docs/SECURITY.md), development and design guides, and [release guidance](https://github.com/codemoteams/Brave-Music/blob/main/docs/RELEASE.md). The repository also provides its [license](https://github.com/codemoteams/Brave-Music/blob/main/LICENSE). Those are Brave-Music’s project documents—not a substitute for checking the docs in another COSL repository.
+A useful baseline for each repository is:
+
+| File | What it should explain |
+| --- | --- |
+| `README.md` | What the project does, who it is for, how to install or run it, and where to find more documentation. |
+| `docs/CONTRIBUTING.md` | How to set up the project, make changes, test them, and submit a contribution. |
+| `docs/RULES.md` | Project-specific requirements, prohibited changes, ownership or attribution notices, and any additional policies. |
+| `CODE_OF_CONDUCT.md` | The expected respectful behavior, how to report concerns, and how conduct issues are handled. |
+| `SECURITY.md` or `docs/SECURITY.md` | How to report vulnerabilities privately and what security boundaries contributors must preserve. |
+| `LICENSE` | The actual license terms for using, modifying, and distributing the project. Read the file in each repository; licenses can differ. |
+| `docs/LEGAL.md` (when needed) | Additional project-specific legal, privacy, trademark, or usage notices. This supplements—not replaces—the `LICENSE`. |
+
+Keep these documents accurate and specific to the repository. Not every project needs a separate legal-notes file, but every project should make its applicable license, contribution process, conduct expectations, and security-reporting route easy to find.
 
 ## What we expect from contributions
 
