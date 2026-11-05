@@ -38,7 +38,14 @@ COSL may develop its own learning paths and connect them to practical labs and p
 ## 3. Mandatory Certification for Senior Leadership
 
 ### 3.1 GitHub Foundations
-The following positions must earn **GitHub Foundations** by passing the official examination:
+
+<p align="left">
+  <a href="https://learn.github.com/credentials">
+    <img src="media/credentials/github-foundations.png" width="96" align="center" alt="GitHub Foundations Certification Badge" />
+  </a>
+</p>
+
+The following positions must earn **[GitHub Foundations](https://learn.github.com/credentials)** by passing the official certification examination:
 - COSL Director and Deputy Director.
 - GitHub Organization Owners.
 - Organization-level administrators exercising COSL authority.
@@ -50,13 +57,13 @@ The requirement is based on organizational authority and responsibility, not mer
 ### 3.2 Role-Specific Certifications
 Senior technical leads should pursue certifications relevant to their responsibilities:
 
-| Badge | Role | Relevant Certification Area |
-|:---:|:---|:---|
-| <img src="media/credentials/github-administration.png" width="80" alt="GitHub Administration" /> | GitHub Administration Lead | [GitHub Administration](https://learn.github.com/credentials) |
-| <img src="media/credentials/github-advanced-security.png" width="80" alt="GitHub Advanced Security" /> | Security Lead | [GitHub Advanced Security](https://learn.github.com/credentials) |
-| <img src="media/credentials/github-actions.png" width="80" alt="GitHub Actions" /> | DevOps / Release Lead | [GitHub Actions](https://learn.github.com/credentials) |
-| <img src="media/credentials/github-copilot.png" width="80" alt="GitHub Copilot" /> | AI Development Lead | [GitHub Copilot](https://learn.github.com/credentials) |
-| — | Agent Engineering Lead | [GitHub Agentic AI Developer](https://learn.github.com/credentials) |
+| Badge | Role | Relevant Certification Area | Action |
+|:---:|:---|:---|:---:|
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-administration.png" width="80" align="center" alt="GitHub Administration" /></a> | **GitHub Administration Lead** | [GitHub Administration](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-advanced-security.png" width="80" align="center" alt="GitHub Advanced Security" /></a> | **Security Lead** | [GitHub Advanced Security](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-actions.png" width="80" align="center" alt="GitHub Actions" /></a> | **DevOps / Release Lead** | [GitHub Actions](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-copilot.png" width="80" align="center" alt="GitHub Copilot" /></a> | **AI Development Lead** | [GitHub Copilot](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| — | **Agent Engineering Lead** | [GitHub Agentic AI Developer](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
 
 The official GitHub credential catalogue must be checked before assigning any examination requirement. Certification names, availability, prices, and validity periods can change.
 
