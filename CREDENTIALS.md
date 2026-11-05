@@ -21,6 +21,8 @@ This policy establishes two distinct pathways:
 
 Course completion and professional certification are separate achievements.
 
+COSL's official leadership positions and authority boundaries are defined in [ORGANIZATION.md](ORGANIZATION.md). Certification requirements are determined by actual organizational responsibility and delegated authority, not by title alone.
+
 ---
 
 ## 2. Official Learning Resources
@@ -45,27 +47,27 @@ COSL may develop its own learning paths and connect them to practical labs and p
   </a>
 </p>
 
-The following positions must earn **[GitHub Foundations](https://learn.github.com/credentials)** by passing the official certification examination:
+The following positions must earn **[GitHub Foundations](https://learn.github.com/credentials)** by passing the official certification examination, subject to formal adoption of this policy:
 - COSL Director and Deputy Director.
 - GitHub Organization Owners.
-- Organization-level administrators exercising COSL authority.
-- Senior governance and organization operations leads.
-- Other positions formally designated as holding top-level organizational authority.
+- Organization administrators who exercise COSL-wide authority.
+- Other individuals explicitly designated as holding top-level organizational governance or administrative authority.
 
-The requirement is based on organizational authority and responsibility, not merely a person's job title.
+A Functional Lead, Project Maintainer, Mentor or Contributor is not automatically covered solely because of their position title. The requirement depends on their actual organizational authority.
 
-### 3.2 Role-Specific Certifications
-Senior technical leads should pursue certifications relevant to their responsibilities:
+### 3.2 Optional Role-Specific Certifications
 
-| Badge | Role | Relevant Certification Area | Action |
+The following certifications may be recommended when COSL establishes a corresponding specialist responsibility or assigns that work to an existing Functional Lead. These are not additional mandatory COSL leadership positions. They do not create new departments or appointment requirements:
+
+| Badge | Relevant Responsibility | Certification Area | Action |
 |:---:|:---|:---|:---:|
-| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-administration.png" width="80" align="center" alt="GitHub Administration" /></a> | **GitHub Administration Lead** | [GitHub Administration](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-advanced-security.png" width="80" align="center" alt="GitHub Advanced Security" /></a> | **Security Lead** | [GitHub Advanced Security](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-actions.png" width="80" align="center" alt="GitHub Actions" /></a> | **DevOps / Release Lead** | [GitHub Actions](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-copilot.png" width="80" align="center" alt="GitHub Copilot" /></a> | **AI Development Lead** | [GitHub Copilot](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
-| — | **Agent Engineering Lead** | [GitHub Agentic AI Developer](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-administration.png" width="80" align="center" alt="GitHub Administration" /></a> | GitHub organization administration | [GitHub Administration](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-advanced-security.png" width="80" align="center" alt="GitHub Advanced Security" /></a> | Security responsibilities | [GitHub Advanced Security](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-actions.png" width="80" align="center" alt="GitHub Actions" /></a> | CI/CD and release engineering | [GitHub Actions](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="media/credentials/github-copilot.png" width="80" align="center" alt="GitHub Copilot" /></a> | AI-assisted development | [GitHub Copilot](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| — | Agent engineering | [GitHub Agentic AI Developer](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
 
-The official GitHub credential catalogue must be checked before assigning any examination requirement. Certification names, availability, prices, and validity periods can change.
+The exact certification names and availability must continue to be checked against the official credential catalogue.
 
 ### 3.3 Existing and New Leadership
 - **New appointments** to covered positions must satisfy the GitHub Foundations requirement before receiving permanent organization-wide authority.
@@ -166,9 +168,13 @@ COSL may recognize contributor development through the following progression:
 
 Progression is evidence-based and subject to authorized review. Course completion or activity volume alone does not guarantee promotion.
 
+The COSL progression pathway recognizes learning and technical development. It is not an organizational hierarchy. Reaching Technical Leader or another progression stage does not automatically appoint a participant to a COSL leadership position, grant repository permissions or provide organizational authority. Formal leadership appointments follow [ORGANIZATION.md](ORGANIZATION.md) and applicable COSL governance.
+
 ---
 
 ## 9. Responsibilities
+
+Official leadership responsibilities, reporting relationships, and authority boundaries are defined authoritatively in [ORGANIZATION.md](ORGANIZATION.md). Within this credentialing and learning framework:
 
 - **COSL Leadership:**
   - Maintain this policy.

@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community on Discord" /></a>
   &nbsp;
-  <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20Labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" /></a>
+  <a href="https://github.com/orgs/codemolabs/repositories"><img src="https://img.shields.io/badge/Explore%20Labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" /></a>
   &nbsp;
   <a href="https://cosl.codemoteams.org"><img src="https://img.shields.io/badge/COSL%20Website-cosl.codemoteams.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="COSL Website" /></a>
   &nbsp;
@@ -34,8 +34,8 @@ Open source can often feel intimidating to enter. **Codemo Open Source Labs (COS
   <tr>
     <td align="center" width="33%" valign="top">
       <br />
-      <a href="https://github.com/orgs/codemoteams/repositories">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/labs.svg" width="32" height="32" align="center" alt="Learn" />
+      <a href="https://github.com/orgs/codemolabs/repositories">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg" width="32" height="32" align="center" alt="Learn" />
         <br /><br />
         <strong>1. Learn</strong>
       </a>
@@ -45,8 +45,8 @@ Open source can often feel intimidating to enter. **Codemo Open Source Labs (COS
     </td>
     <td align="center" width="33%" valign="top">
       <br />
-      <a href="https://github.com/orgs/codemoteams/repositories">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/code.svg" width="32" height="32" align="center" alt="Build" />
+      <a href="https://github.com/orgs/codemolabs/repositories">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/code.svg" width="32" height="32" align="center" alt="Build" />
         <br /><br />
         <strong>2. Build</strong>
       </a>
@@ -57,7 +57,7 @@ Open source can often feel intimidating to enter. **Codemo Open Source Labs (COS
     <td align="center" width="33%" valign="top">
       <br />
       <a href="https://discord.gg/wD9d5Er7a">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/community.svg" width="32" height="32" align="center" alt="Share" />
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg" width="32" height="32" align="center" alt="Share" />
         <br /><br />
         <strong>3. Share</strong>
       </a>
@@ -78,18 +78,18 @@ Our initiatives span real-world software, infrastructure tools, and interactive 
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <a href="https://github.com/orgs/codemoteams/repositories">
-          <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/security.svg" width="20" height="20" align="center" alt="Security" />
+        <a href="https://github.com/orgs/codemolabs/repositories">
+          <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg" width="20" height="20" align="center" alt="Security" />
           &nbsp;&nbsp;Systems &amp; Security Automation
         </a>
       </h4>
       <p>Practical security tooling, automated hardening, Linux configurations, and zero-trust engineering labs designed for safe, hands-on learning.</p>
-      <p><a href="https://github.com/orgs/codemoteams/repositories"><strong>Explore Security Projects &rarr;</strong></a></p>
+      <p><a href="https://github.com/orgs/codemolabs/repositories"><strong>Explore Security Projects &rarr;</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>
         <a href="https://github.com/codemoteams/Brave-Music">
-          <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/media-app.svg" width="20" height="20" align="center" alt="Media" />
+          <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg" width="20" height="20" align="center" alt="Media" />
           &nbsp;&nbsp;Modern Applications &amp; Media
         </a>
       </h4>
@@ -100,23 +100,23 @@ Our initiatives span real-world software, infrastructure tools, and interactive 
   <tr>
     <td width="50%" valign="top">
       <h4>
-        <a href="https://github.com/orgs/codemoteams/repositories">
-          <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/tooling.svg" width="20" height="20" align="center" alt="Tooling" />
+        <a href="https://github.com/orgs/codemolabs/repositories">
+          <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg" width="20" height="20" align="center" alt="Tooling" />
           &nbsp;&nbsp;Developer Tooling &amp; DevOps
         </a>
       </h4>
       <p>Productivity scripts, CI/CD workflows, and cross-platform utilities that make open-source development faster and more reliable.</p>
-      <p><a href="https://github.com/orgs/codemoteams/repositories"><strong>Explore Developer Tools &rarr;</strong></a></p>
+      <p><a href="https://github.com/orgs/codemolabs/repositories"><strong>Explore Developer Tools &rarr;</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h4>
-        <a href="https://github.com/orgs/codemoteams/repositories">
-          <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/labs.svg" width="20" height="20" align="center" alt="Labs" />
+        <a href="https://github.com/orgs/codemolabs/repositories">
+          <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg" width="20" height="20" align="center" alt="Labs" />
           &nbsp;&nbsp;Open Educational Labs
         </a>
       </h4>
       <p>Curated, beginner-to-advanced technical challenges that walk learners through git workflows, code reviews, and software testing.</p>
-      <p><a href="https://github.com/orgs/codemoteams/repositories"><strong>Start Educational Labs &rarr;</strong></a></p>
+      <p><a href="https://github.com/orgs/codemolabs/repositories"><strong>Start Educational Labs &rarr;</strong></a></p>
     </td>
   </tr>
 </table>
@@ -133,8 +133,8 @@ We welcome contributions of all sizes—documentation improvements, bug fixes, a
   <tr>
     <td align="center" width="25%" valign="top">
       <br />
-      <a href="https://github.com/orgs/codemoteams/repositories">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/labs.svg" width="26" height="26" align="center" alt="Explore" />
+      <a href="https://github.com/orgs/codemolabs/repositories">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg" width="26" height="26" align="center" alt="Explore" />
         <br /><br />
         <strong>1. Explore</strong>
       </a>
@@ -144,8 +144,8 @@ We welcome contributions of all sizes—documentation improvements, bug fixes, a
     </td>
     <td align="center" width="25%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md#a-good-contribution-flow">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/tooling.svg" width="26" height="26" align="center" alt="Fork & Branch" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md#a-good-contribution-flow">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg" width="26" height="26" align="center" alt="Fork & Branch" />
         <br /><br />
         <strong>2. Fork &amp; Branch</strong>
       </a>
@@ -155,8 +155,8 @@ We welcome contributions of all sizes—documentation improvements, bug fixes, a
     </td>
     <td align="center" width="25%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md#pull-request-checklist">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/verified.svg" width="26" height="26" align="center" alt="Test & Verify" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md#pull-request-checklist">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/verified.svg" width="26" height="26" align="center" alt="Test & Verify" />
         <br /><br />
         <strong>3. Test &amp; Verify</strong>
       </a>
@@ -166,8 +166,8 @@ We welcome contributions of all sizes—documentation improvements, bug fixes, a
     </td>
     <td align="center" width="25%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md#review-and-merge">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/git-pr.svg" width="26" height="26" align="center" alt="Submit PR" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md#review-and-merge">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/git-pr.svg" width="26" height="26" align="center" alt="Submit PR" />
         <br /><br />
         <strong>4. Submit PR</strong>
       </a>
@@ -185,7 +185,7 @@ We welcome contributions of all sizes—documentation improvements, bug fixes, a
 - **Safety First:** We maintain zero tolerance for malicious code, credential scrapers, or unauthorized security exploits.
 - **Kindness &amp; Mentorship:** Every question is valid. We prioritize constructive feedback and progress over perfection.
 
-Read our complete [**Contributing Guide**](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) for step-by-step instructions and pull request checklists.
+Read our complete [**Contributing Guide**](https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md) for step-by-step instructions and pull request checklists.
 
 ---
 
@@ -195,12 +195,13 @@ All projects across the COSL ecosystem follow shared community health standards:
 
 | Document | Focus &amp; Scope | Action |
 |:---|:---|:---:|
-| <a href="https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/git-pr.svg" width="18" height="18" align="center" alt="Contributing Guide" />&nbsp;&nbsp;**Contributing Guide**</a> | Step-by-step contribution flow, commit standards, and PR checklist | [**Read Guide**](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) |
-| <a href="https://github.com/codemoteams/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/community.svg" width="18" height="18" align="center" alt="Code of Conduct" />&nbsp;&nbsp;**Code of Conduct**</a> | Expected behavior, inclusive environment pledge, and moderation principles | [**Read Policy**](https://github.com/codemoteams/.github/blob/main/CODE_OF_CONDUCT.md) |
-| <a href="https://github.com/codemoteams/.github/blob/main/SECURITY.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/security.svg" width="18" height="18" align="center" alt="Security Policy" />&nbsp;&nbsp;**Security Policy**</a> | Responsible vulnerability reporting instructions and safe harbor terms | [**Read Policy**](https://github.com/codemoteams/.github/blob/main/SECURITY.md) |
-| <a href="https://github.com/codemoteams/.github/blob/main/SUPPORT.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/support.svg" width="18" height="18" align="center" alt="Support" />&nbsp;&nbsp;**Support &amp; Help**</a> | How to ask questions, join Discord channels, and connect with maintainers | [**Get Help**](https://github.com/codemoteams/.github/blob/main/SUPPORT.md) |
-| <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/award.svg" width="18" height="18" align="center" alt="Credentials" />&nbsp;&nbsp;**Learning &amp; Credentials**</a> | Official learning paths, leadership certifications, and progression tiers | [**Read Policy**](https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md) |
-| <a href="https://github.com/codemoteams/.github/blob/main/RULES.md"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/legal.svg" width="18" height="18" align="center" alt="Legal Notes" />&nbsp;&nbsp;**Community Rules &amp; Legal Notes**</a> | Extended behavioral guidelines, licensing, trademark, and usage notices | [**Read Rules**](https://github.com/codemoteams/.github/blob/main/RULES.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/ORGANIZATION.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg" width="18" height="18" align="center" alt="Organization Structure" />&nbsp;&nbsp;**Organization Structure**</a> | COSL hierarchy, leadership responsibilities, and authority boundaries | [**View Structure**](https://github.com/codemolabs/.github/blob/main/ORGANIZATION.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/git-pr.svg" width="18" height="18" align="center" alt="Contributing Guide" />&nbsp;&nbsp;**Contributing Guide**</a> | Step-by-step contribution flow, commit standards, and PR checklist | [**Read Guide**](https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/CODE_OF_CONDUCT.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg" width="18" height="18" align="center" alt="Code of Conduct" />&nbsp;&nbsp;**Code of Conduct**</a> | Expected behavior, inclusive environment pledge, and moderation principles | [**Read Policy**](https://github.com/codemolabs/.github/blob/main/CODE_OF_CONDUCT.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/SECURITY.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg" width="18" height="18" align="center" alt="Security Policy" />&nbsp;&nbsp;**Security Policy**</a> | Responsible vulnerability reporting instructions and safe harbor terms | [**Read Policy**](https://github.com/codemolabs/.github/blob/main/SECURITY.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/SUPPORT.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/support.svg" width="18" height="18" align="center" alt="Support" />&nbsp;&nbsp;**Support &amp; Help**</a> | How to ask questions, join Discord channels, and connect with maintainers | [**Get Help**](https://github.com/codemolabs/.github/blob/main/SUPPORT.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/award.svg" width="18" height="18" align="center" alt="Credentials" />&nbsp;&nbsp;**Learning &amp; Credentials**</a> | Official learning paths, leadership certifications, and progression tiers | [**Read Policy**](https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md) |
+| <a href="https://github.com/codemolabs/.github/blob/main/RULES.md"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/legal.svg" width="18" height="18" align="center" alt="Legal Notes" />&nbsp;&nbsp;**Community Rules &amp; Legal Notes**</a> | Extended behavioral guidelines, licensing, trademark, and usage notices | [**Read Rules**](https://github.com/codemolabs/.github/blob/main/RULES.md) |
 
 ---
 
@@ -216,30 +217,30 @@ COSL supports continuous learning through practical exercises, structured study,
 
 #### Leadership Certification Framework
 
-Designated COSL executive leadership and organization-level authority holders must earn **GitHub Foundations** by passing the official certification examination. Senior technical leads should pursue relevant role-specific GitHub certifications where available and applicable:
+COSL's proposed leadership certification framework requires designated senior leadership and organization-level authority holders to earn GitHub Foundations through the official certification examination. This requirement becomes binding only after formal COSL adoption. Other technical certifications may be recommended according to assigned responsibilities and actual technical requirements:
 
 | Certification | Examination &amp; Credentials | Target Leadership Area | Official Exam |
 |:---:|:---|:---|:---:|
-| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/credentials/github-foundations.png" width="96" align="center" alt="GitHub Foundations Certification Badge" /></a> | [**GitHub Foundations**](https://learn.github.com/credentials)<br>Repository management, Git collaboration, project workflows, and features. | **Mandatory** for COSL Directors, Org Owners, and Organization Administrators | [**Learn More**](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/credentials/github-advanced-security.png" width="96" align="center" alt="GitHub Advanced Security Badge" /></a> | [**GitHub Advanced Security**](https://learn.github.com/credentials)<br>Code scanning, secret scanning, dependency review, and vulnerability remediation. | Security Lead | [**Learn More**](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/credentials/github-actions.png" width="96" align="center" alt="GitHub Actions Badge" /></a> | [**GitHub Actions**](https://learn.github.com/credentials)<br>Automated CI/CD pipelines, custom action authoring, and release engineering. | DevOps &amp; Release Lead | [**Learn More**](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/credentials/github-administration.png" width="96" align="center" alt="GitHub Administration Badge" /></a> | [**GitHub Administration**](https://learn.github.com/credentials)<br>Enterprise management, identity/access control, compliance, and governance. | GitHub Administration Lead | [**Learn More**](https://learn.github.com/credentials) |
-| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/credentials/github-copilot.png" width="96" align="center" alt="GitHub Copilot Badge" /></a> | [**GitHub Copilot**](https://learn.github.com/credentials)<br>AI-assisted coding, prompt engineering, developer workflows, and responsible AI. | AI Development Lead | [**Learn More**](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/credentials/github-foundations.png" width="96" align="center" alt="GitHub Foundations Certification Badge" /></a> | [**GitHub Foundations**](https://learn.github.com/credentials)<br>Repository management, Git collaboration, project workflows, and features. | **Mandatory** for COSL Director, Deputy Director, Organization Owners, and Administrators with COSL-wide authority | [**Learn More**](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/credentials/github-advanced-security.png" width="96" align="center" alt="GitHub Advanced Security Badge" /></a> | [**GitHub Advanced Security**](https://learn.github.com/credentials)<br>Code scanning, secret scanning, dependency review, and vulnerability remediation. | Optional specialist certification (Security) | [**Learn More**](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/credentials/github-actions.png" width="96" align="center" alt="GitHub Actions Badge" /></a> | [**GitHub Actions**](https://learn.github.com/credentials)<br>Automated CI/CD pipelines, custom action authoring, and release engineering. | Optional specialist certification (DevOps &amp; Release) | [**Learn More**](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/credentials/github-administration.png" width="96" align="center" alt="GitHub Administration Badge" /></a> | [**GitHub Administration**](https://learn.github.com/credentials)<br>Enterprise management, identity/access control, compliance, and governance. | Optional specialist certification (Administration) | [**Learn More**](https://learn.github.com/credentials) |
+| <a href="https://learn.github.com/credentials"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/credentials/github-copilot.png" width="96" align="center" alt="GitHub Copilot Badge" /></a> | [**GitHub Copilot**](https://learn.github.com/credentials)<br>AI-assisted coding, prompt engineering, developer workflows, and responsible AI. | Optional specialist certification (AI Development) | [**Learn More**](https://learn.github.com/credentials) |
 
 *Note: Course tutorials, learning paths, and GitHub Skills exercises represent learning achievements. They are distinct from passing an official proctored certification examination.*
 
 #### Contributor Progression Pathway
 
-Learners and ordinary contributors are **not** required to purchase or pass a professional certification examination. They develop skills through free self-paced study, hands-on labs, and real contributions across our progression tiers:
+Learners and ordinary contributors are **not** required to purchase or pass a professional certification examination. They develop skills through free self-paced study, hands-on labs, and real contributions across our six progression tiers:
 
 <br />
 
 <table>
   <tr>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/book.svg" width="24" height="24" align="center" alt="Explorer" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/book.svg" width="24" height="24" align="center" alt="Explorer" />
         <br /><br />
         <strong>1. Explorer</strong>
       </a>
@@ -247,10 +248,10 @@ Learners and ordinary contributors are **not** required to purchase or pass a pr
       <sub>Introductory exercises &amp; tutorials</sub>
       <br /><br />
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/labs.svg" width="24" height="24" align="center" alt="Practitioner" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg" width="24" height="24" align="center" alt="Practitioner" />
         <br /><br />
         <strong>2. Practitioner</strong>
       </a>
@@ -258,10 +259,10 @@ Learners and ordinary contributors are **not** required to purchase or pass a pr
       <sub>Guided labs &amp; verified tasks</sub>
       <br /><br />
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/git-pr.svg" width="24" height="24" align="center" alt="Contributor" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/git-pr.svg" width="24" height="24" align="center" alt="Contributor" />
         <br /><br />
         <strong>3. Contributor</strong>
       </a>
@@ -269,10 +270,10 @@ Learners and ordinary contributors are **not** required to purchase or pass a pr
       <sub>Accepted pull requests &amp; reviews</sub>
       <br /><br />
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/verified.svg" width="24" height="24" align="center" alt="Verified Developer" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/verified.svg" width="24" height="24" align="center" alt="Verified Developer" />
         <br /><br />
         <strong>4. Verified</strong>
       </a>
@@ -280,19 +281,32 @@ Learners and ordinary contributors are **not** required to purchase or pass a pr
       <sub>Consistent engineering quality</sub>
       <br /><br />
     </td>
-    <td align="center" width="20%" valign="top">
+    <td align="center" width="16.6%" valign="top">
       <br />
-      <a href="https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
-        <img src="https://raw.githubusercontent.com/codemoteams/.github/main/media/icons/award.svg" width="24" height="24" align="center" alt="Technical Leader" />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg" width="24" height="24" align="center" alt="Technical Specialist" />
         <br /><br />
-        <strong>5. Leader</strong>
+        <strong>5. Specialist</strong>
       </a>
       <br /><br />
-      <sub>Governance &amp; credentials</sub>
+      <sub>Technical domain depth</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="16.6%" valign="top">
+      <br />
+      <a href="https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md#8-cosl-progression-pathway">
+        <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/award.svg" width="24" height="24" align="center" alt="Technical Leader" />
+        <br /><br />
+        <strong>6. Tech Leader</strong>
+      </a>
+      <br /><br />
+      <sub>Leadership credentials</sub>
       <br /><br />
     </td>
   </tr>
 </table>
+
+*Developer progression represents learning and technical achievement, not automatic appointment to COSL organizational leadership.*
 
 #### Achievement Categories
 
@@ -302,7 +316,7 @@ COSL recognizes four distinct achievement categories:
 - **Open Source:** Accepted contributions, pull request reviews, maintenance, and upstream collaboration.
 - **Professional Certification:** Credentials earned through official examinations and verified via an issuer-supported method.
 
-Review the full policy in [`CREDENTIALS.md`](https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md).
+Review the full policy in [`CREDENTIALS.md`](https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md).
 
 ---
 
@@ -310,7 +324,7 @@ Review the full policy in [`CREDENTIALS.md`](https://github.com/codemoteams/.git
 
 <p align="center">
   <a href="https://discord.gg/wD9d5Er7a"><strong>Discord Server</strong></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/orgs/codemoteams/repositories"><strong>Explore Repositories</strong></a> &nbsp;&bull;&nbsp;
+  <a href="https://github.com/orgs/codemolabs/repositories"><strong>Explore Repositories</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://cosl.codemoteams.org"><strong>COSL Website</strong></a> &nbsp;&bull;&nbsp;
   <a href="https://codemoteams.org"><strong>Codemo Teams</strong></a> &nbsp;&bull;&nbsp;
   <a href="mailto:cosl@codemoteams.org"><strong>Email Maintainers</strong></a>

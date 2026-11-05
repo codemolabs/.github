@@ -7,7 +7,7 @@ Codemo Open Source Labs (COSL) takes security, user privacy, and system safety s
 ## 1. Supported Scope
 
 This security policy applies to:
-- The [codemoteams organization](https://github.com/codemoteams) repositories.
+- The [codemolabs organization](https://github.com/codemolabs) repositories.
 - Official COSL web assets and documentation.
 
 Project-specific repositories may provide additional security scopes and contact endpoints in their own `SECURITY.md` or `docs/SECURITY.md`. If project-specific instructions exist, please follow them in conjunction with this policy.

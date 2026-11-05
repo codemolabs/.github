@@ -39,6 +39,8 @@ You do not need to be an expert. Start with a question, typo, documentation clar
 
 Submitting a contribution does not guarantee acceptance. Maintainers may request changes, defer work, or close contributions that are out of scope, unsafe, unmaintained, or inconsistent with project goals. Reviews aim to improve the work, not judge the contributor.
 
+Project Maintainers exercise responsibilities only within their assigned projects and repositories. Organization-wide authority, administrative access and COSL leadership responsibilities are assigned separately under [ORGANIZATION.md](ORGANIZATION.md).
+
 ## Questions & Support
 
 For help and general questions, consult [SUPPORT.md](SUPPORT.md), use the repository's Issues or Discussions, or join our [Discord server](https://discord.gg/wD9d5Er7a). For security vulnerabilities, consult our [Security Policy](SECURITY.md) and contact [cosl@codemoteams.org](mailto:cosl@codemoteams.org) privately.
@@ -53,7 +55,7 @@ Recommended resources:
 - [GitHub Courses](https://learn.github.com/courses)
 - [Microsoft Learn](https://learn.microsoft.com/training/)
 
-Ordinary contributors and learners are not required to purchase or pass professional certification examinations. The mandatory GitHub Foundations examination requirement applies to designated senior COSL leadership and organization-level authority holders, not general contributors. Senior technical leads should pursue relevant role-specific credentials where applicable.
+Under the proposed COSL certification framework, the mandatory GitHub Foundations examination requirement applies to designated senior leadership and organization-level authority holders. It does not apply to ordinary contributors and learners, and becomes binding only after formal adoption. Senior technical leads should pursue relevant role-specific credentials where applicable.
 
 A completed course, learning path, or GitHub Skills exercise is a learning achievement, not a professional certification.
 
