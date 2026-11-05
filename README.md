@@ -27,6 +27,19 @@ This repository (`codemolabs/.github`) is a special GitHub meta-repository. It p
 
 ---
 
+## Repository Separation: Labs vs Products
+
+The Codemo ecosystem maintains an intentional separation between educational environments and production applications:
+
+| Category | Organization | Scope & Purpose | Target Audience |
+|:---|:---|:---|:---|
+| **Educational Labs** | [`@codemolabs`](https://github.com/codemolabs) | Hands-on learning exercises, guided Git sandboxes, security automation labs, and contributor practice environments. | Learners, students, and open-source contributors |
+| **Product Repositories** | [`@codemoteams`](https://github.com/codemoteams) | Production-grade software applications, flagship client media tools such as Brave-Music, and live deployed products. | End users, product engineers, and core maintainers |
+
+This separation ensures that learners have a dedicated, safe environment to explore, learn Git workflows, and submit pull requests without risking production application stability.
+
+---
+
 ## Architecture & Directory Layout
 
 ```

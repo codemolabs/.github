@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/wD9d5Er7a"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/discord.svg" width="22" height="22" align="absmiddle" alt="Discord" /></a>
+  <a href="https://discord.gg/wD9d5Er7a"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/discord.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="Discord" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/orgs/codemolabs/repositories"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/github.svg" width="22" height="22" align="absmiddle" alt="GitHub Repositories" /></a>
+  <a href="https://github.com/orgs/codemolabs/repositories"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/github.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="GitHub Repositories" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cosl.codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/website.svg" width="22" height="22" align="absmiddle" alt="COSL Website" /></a>
+  <a href="https://cosl.codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/website.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="COSL Website" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:cosl@codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/mail.svg" width="22" height="22" align="absmiddle" alt="Email" /></a>
+  <a href="mailto:cosl@codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/mail.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="Email" /></a>
 </p>
 
 ### About COSL
@@ -23,26 +23,32 @@ flowchart LR
     B --> C["3. Share<br>Open Source Work"]
 ```
 
+#### Repository Separation: Labs vs Products
+
+The Codemo ecosystem maintains a clear separation between educational environments and production applications:
+- **Educational Labs (`@codemolabs`):** Hands-on learning exercises, guided sandboxes, zero-trust experiments, and contributor pathways designed to build practical engineering skills.
+- **Product Repositories (`@codemoteams`):** Production-grade software applications, flagship client media tools such as Brave-Music, and live user-facing services under parent ecosystem standards.
+
 ### Technical Focus Areas
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg" width="16" height="16" align="absmiddle" alt="" /> <strong>Systems and Security Automation</strong><br>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Systems and Security Automation</strong><br>
       Practical security tools, automated hardening scripts, and zero-trust engineering labs. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg" width="16" height="16" align="absmiddle" alt="" /> <strong>Modern Applications and Media</strong><br>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Modern Applications and Media</strong><br>
       Client and web applications, including the Brave-Music player, built for clean performance. <a href="https://github.com/codemoteams/Brave-Music">More&nbsp;&rarr;</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg" width="16" height="16" align="absmiddle" alt="" /> <strong>Developer Tooling and DevOps</strong><br>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Developer Tooling and DevOps</strong><br>
       Productivity scripts, automation utilities, and cross-platform workflows for developers. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg" width="16" height="16" align="absmiddle" alt="" /> <strong>Open Educational Labs</strong><br>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Open Educational Labs</strong><br>
       Curated technical exercises guiding contributors through Git workflows and code reviews. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
     </td>
   </tr>
@@ -74,13 +80,13 @@ All projects across the COSL ecosystem follow shared community health standards:
 
 | Document | Focus and Scope | Link |
 |:---|:---|:---:|
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg" width="16" height="16" align="absmiddle" alt="" /> **Organization Structure** | Official hierarchy, responsibilities, and authority boundaries | [Open Document](https://github.com/codemolabs/.github/blob/main/ORGANIZATION.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/git-pr.svg" width="16" height="16" align="absmiddle" alt="" /> **Contributing Guide** | Contribution flow, branch naming, and pull request checklist | [Open Document](https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg" width="16" height="16" align="absmiddle" alt="" /> **Code of Conduct** | Expected behavior, inclusive environment pledge, and moderation | [Open Document](https://github.com/codemolabs/.github/blob/main/CODE_OF_CONDUCT.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg" width="16" height="16" align="absmiddle" alt="" /> **Security Policy** | Vulnerability disclosure instructions and safe harbor terms | [Open Document](https://github.com/codemolabs/.github/blob/main/SECURITY.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/support.svg" width="16" height="16" align="absmiddle" alt="" /> **Support & Help** | Discord channels, issue reporting, and general inquiries | [Open Document](https://github.com/codemolabs/.github/blob/main/SUPPORT.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/award.svg" width="16" height="16" align="absmiddle" alt="" /> **Learning & Credentials** | Official learning paths, leadership certifications, and progression | [Open Document](https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md) |
-| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/legal.svg" width="16" height="16" align="absmiddle" alt="" /> **Community Rules** | Extended behavioral guidelines, licensing, and legal notices | [Open Document](https://github.com/codemolabs/.github/blob/main/RULES.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Organization Structure** | Official hierarchy, responsibilities, and authority boundaries | [Open Document](https://github.com/codemolabs/.github/blob/main/ORGANIZATION.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/git-pr.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Contributing Guide** | Contribution flow, branch naming, and pull request checklist | [Open Document](https://github.com/codemolabs/.github/blob/main/CONTRIBUTING.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/community.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Code of Conduct** | Expected behavior, inclusive environment pledge, and moderation | [Open Document](https://github.com/codemolabs/.github/blob/main/CODE_OF_CONDUCT.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Security Policy** | Vulnerability disclosure instructions and safe harbor terms | [Open Document](https://github.com/codemolabs/.github/blob/main/SECURITY.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/support.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Support & Help** | Discord channels, issue reporting, and general inquiries | [Open Document](https://github.com/codemolabs/.github/blob/main/SUPPORT.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/award.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Learning & Credentials** | Official learning paths, leadership certifications, and progression | [Open Document](https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md) |
+| <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/legal.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; **Community Rules** | Extended behavioral guidelines, licensing, and legal notices | [Open Document](https://github.com/codemolabs/.github/blob/main/RULES.md) |
 
 ### Learning, Certifications & Achievements
 
@@ -132,11 +138,11 @@ COSL recognizes four distinct achievement categories:
 Review the full policy in [`CREDENTIALS.md`](https://github.com/codemolabs/.github/blob/main/CREDENTIALS.md).
 
 <p align="center">
-  <a href="https://discord.gg/wD9d5Er7a"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/discord.svg" width="22" height="22" align="absmiddle" alt="Discord" /></a>
+  <a href="https://discord.gg/wD9d5Er7a"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/discord.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="Discord" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/orgs/codemolabs/repositories"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/github.svg" width="22" height="22" align="absmiddle" alt="GitHub Repositories" /></a>
+  <a href="https://github.com/orgs/codemolabs/repositories"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/github.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="GitHub Repositories" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://cosl.codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/website.svg" width="22" height="22" align="absmiddle" alt="COSL Website" /></a>
+  <a href="https://cosl.codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/website.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="COSL Website" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:cosl@codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/mail.svg" width="22" height="22" align="absmiddle" alt="Email" /></a>
+  <a href="mailto:cosl@codemoteams.org"><img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/mail.svg?v=cosl-purple" width="22" height="22" align="absmiddle" alt="Email" /></a>
 </p>

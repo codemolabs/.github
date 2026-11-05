@@ -4,10 +4,11 @@ Thank you for helping make open-source learning more accessible. Contributions o
 
 ## Before you start
 
-1. Read the repository README and any project-specific contribution notes.
-2. Check open issues and discussions to avoid duplicating work.
-3. For a substantial change, open an issue or discussion first so maintainers and contributors can agree on scope.
-4. Do not include secrets, personal data, copyrighted material you cannot license, or files you are not permitted to share.
+1. Check whether you are contributing to an **educational lab** under `@codemolabs` (focused on guided learning, testing, and skill building) or a **production product** under `@codemoteams` (focused on production stability, performance, and release engineering).
+2. Read the repository README and any project-specific contribution notes.
+3. Check open issues and discussions to avoid duplicating work.
+4. For a substantial change, open an issue or discussion first so maintainers and contributors can agree on scope.
+5. Do not include secrets, personal data, copyrighted material you cannot license, or files you are not permitted to share.
 
 ## A good contribution flow
 

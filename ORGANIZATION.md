@@ -15,6 +15,11 @@ COSL maintains a small and practical organizational structure. Additional leader
 
 COSL operates within the Codemo Teams ecosystem and follows applicable parent-level governance and organizational policies.
 
+### Repository Separation: Labs vs Products
+The ecosystem maintains an intentional separation between two repository tiers:
+- **Educational Labs (`@codemolabs`):** Governed by COSL, focusing on hands-on learning, guided exercises, Git collaboration sandboxes, and safe technical experimentation.
+- **Product Repositories (`@codemoteams`):** Governed under parent Codemo Teams operations, focusing on production software applications, flagship client media software, and live releases.
+
 ---
 
 ## 2. Organizational Hierarchy
@@ -129,6 +134,7 @@ A Project Maintainer is assigned responsibility for an individual repository, pr
 - Coordinate project tasks and issues.
 - Support contributors working on the assigned project.
 - Manage repository-level responsibilities within granted permissions.
+- Maintain appropriate standards depending on whether the codebase is an educational lab (`codemolabs`) or a production product (`codemoteams`).
 
 Project Maintainers do not automatically receive organization-wide authority.
 
