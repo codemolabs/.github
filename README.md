@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans-cropped.png" alt="Codemo Open Source Labs (COSL)" width="480" />
+  <img src="media/cosl-banner.png" alt="Codemo Open Source Labs (COSL) — Meta-Repository Banner" width="480" />
 </p>
 
 <h1 align="center">COSL Organization Meta-Repository</h1>
@@ -39,6 +39,10 @@ This repository (`codemoteams/.github`) is a special GitHub meta-repository. It 
 │   │   ├── feature_request.yml        # Structured issue form for proposals & labs
 │   │   └── config.yml                 # Guidance directing questions to Discord
 │   └── pull_request_template.md       # Standard PR template with verification checklist
+├── media/
+│   ├── README.md                      # Brand assets index & usage guidelines
+│   ├── cosl-banner.png                # Horizontal banner logo (1338 × 838)
+│   └── cosl-logo.png                  # Square logo mark (1563 × 1563)
 ├── CODE_OF_CONDUCT.md                 # Contributor Covenant v2.1 code of conduct
 ├── CONTRIBUTING.md                    # Universal contribution guidelines & expectations
 ├── CREDENTIALS.md                     # Learning, credentialing, & leadership standards
@@ -46,9 +50,7 @@ This repository (`codemoteams/.github`) is a special GitHub meta-repository. It 
 ├── SUPPORT.md                         # Support channels, community help, and contacts
 ├── RULES.md                           # Extended community rules & behavioral bounds
 ├── LEGALIZATION.md                    # Legal, copyright, trademark, and warranty notes
-├── LICENSE                            # MIT License for this meta-repository
-├── COSLOfficial2Trans.png             # Original square logo (1563 × 1563)
-└── COSLOfficial2Trans-cropped.png     # Banner-cropped logo (1338 × 838)
+└── LICENSE                            # MIT License for this meta-repository
 ```
 
 ---
@@ -57,9 +59,10 @@ This repository (`codemoteams/.github`) is a special GitHub meta-repository. It 
 
 GitHub automatically inherits files from this repository for any project in `codemoteams` that does not define its own:
 
-| File | GitHub Feature | Inherited Scope |
+| File / Folder | GitHub Feature | Inherited Scope |
 |:---|:---|:---|
 | `profile/README.md` | Public Organization Profile | Rendered on [`github.com/codemoteams`](https://github.com/codemoteams) |
+| `media/` | Brand Assets Directory | Standard logos & banners for org projects |
 | `CODE_OF_CONDUCT.md` | Community Health Check | Active across all member repositories |
 | `CONTRIBUTING.md` | PR / Issue Contributor Guidance | Displayed to contributors opening PRs |
 | `CREDENTIALS.md` | Policy & Advancement Guide | Universal reference for learning & certifications |

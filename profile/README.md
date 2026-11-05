@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans-cropped.png" alt="Codemo Open Source Labs (COSL)" width="520" />
+  <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/cosl-banner.png" alt="Codemo Open Source Labs (COSL) — Community Banner" width="520" />
 </p>
 
 <h1 align="center">Open source is learned by doing.</h1>
