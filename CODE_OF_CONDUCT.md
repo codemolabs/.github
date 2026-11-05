@@ -47,7 +47,7 @@ This Code of Conduct applies within all community spaces (including GitHub repos
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the COSL maintainers at:
 
-📧 **[cosl@codemoteams.org](mailto:cosl@codemoteams.org)**
+**[cosl@codemoteams.org](mailto:cosl@codemoteams.org)**
 
 All complaints will be reviewed and investigated promptly and fairly. All maintainers are obligated to respect the privacy and security of the reporter of any incident.
 

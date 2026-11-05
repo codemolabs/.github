@@ -8,7 +8,7 @@ Welcome! If you need assistance with Codemo Open Source Labs (COSL) projects, la
 
 The fastest way to ask questions, meet fellow learners, discuss lab exercises, and get interactive assistance is on our Discord server:
 
-👉 **[Join the COSL Discord Server](https://discord.gg/wD9d5Er7a)**
+**[Join the COSL Discord Server](https://discord.gg/wD9d5Er7a)**
 
 Channels available:
 - `#general`: Say hello and discuss tech and open source.
@@ -30,7 +30,7 @@ Channels available:
 
 For partnership questions, community moderation appeals, licensing clarifications, or general organization questions, you can reach out directly via email:
 
-📧 **[cosl@codemoteams.org](mailto:cosl@codemoteams.org)**
+**[cosl@codemoteams.org](mailto:cosl@codemoteams.org)**
 
 ---
 

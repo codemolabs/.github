@@ -42,7 +42,9 @@ This repository (`codemoteams/.github`) is a special GitHub meta-repository. It 
 ├── media/
 │   ├── README.md                      # Brand assets index & usage guidelines
 │   ├── cosl-banner.png                # Horizontal banner logo (1338 × 838)
-│   └── cosl-logo.png                  # Square logo mark (1563 × 1563)
+│   ├── cosl-logo.png                  # Square logo mark (1563 × 1563)
+│   ├── credentials/                   # Official GitHub certification badges
+│   └── icons/                         # High-DPI Iconify SVG vector icons
 ├── CODE_OF_CONDUCT.md                 # Contributor Covenant v2.1 code of conduct
 ├── CONTRIBUTING.md                    # Universal contribution guidelines & expectations
 ├── CREDENTIALS.md                     # Learning, credentialing, & leadership standards

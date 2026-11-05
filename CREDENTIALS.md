@@ -50,13 +50,13 @@ The requirement is based on organizational authority and responsibility, not mer
 ### 3.2 Role-Specific Certifications
 Senior technical leads should pursue certifications relevant to their responsibilities:
 
-| Role | Relevant Certification Area |
-|:---|:---|
-| GitHub Administration Lead | GitHub Administration |
-| Security Lead | GitHub Advanced Security |
-| DevOps / Release Lead | GitHub Actions |
-| AI Development Lead | GitHub Copilot |
-| Agent Engineering Lead | GitHub Agentic AI Developer |
+| Badge | Role | Relevant Certification Area |
+|:---:|:---|:---|
+| <img src="media/credentials/github-administration.png" width="80" alt="GitHub Administration" /> | GitHub Administration Lead | [GitHub Administration](https://learn.github.com/credentials) |
+| <img src="media/credentials/github-advanced-security.png" width="80" alt="GitHub Advanced Security" /> | Security Lead | [GitHub Advanced Security](https://learn.github.com/credentials) |
+| <img src="media/credentials/github-actions.png" width="80" alt="GitHub Actions" /> | DevOps / Release Lead | [GitHub Actions](https://learn.github.com/credentials) |
+| <img src="media/credentials/github-copilot.png" width="80" alt="GitHub Copilot" /> | AI Development Lead | [GitHub Copilot](https://learn.github.com/credentials) |
+| — | Agent Engineering Lead | [GitHub Agentic AI Developer](https://learn.github.com/credentials) |
 
 The official GitHub credential catalogue must be checked before assigning any examination requirement. Certification names, availability, prices, and validity periods can change.
 
@@ -139,6 +139,15 @@ Current examination fees, regional pricing, delivery methods, and retake policie
 ---
 
 ## 8. COSL Progression Pathway
+
+```mermaid
+flowchart LR
+    P1["1. Explorer<br>Introductory Exercises"] --> P2["2. Practitioner<br>Guided Labs & Tasks"]
+    P2 --> P3["3. Contributor<br>Accepted Contributions"]
+    P3 --> P4["4. Verified Developer<br>Engineering Quality"]
+    P4 --> P5["5. Technical Specialist<br>Domain Expertise"]
+    P5 --> P6["6. Technical Leader<br>Governance & Credentials"]
+```
 
 COSL may recognize contributor development through the following progression:
 1. **Explorer** — begins learning and completes introductory exercises.

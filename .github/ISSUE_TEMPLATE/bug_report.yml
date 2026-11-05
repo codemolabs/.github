@@ -1,4 +1,4 @@
-name: 🐛 Bug Report
+name: Bug Report
 description: Report a reproducible bug or error in a project or lab
 title: "[Bug]: "
 labels: ["bug", "triage"]

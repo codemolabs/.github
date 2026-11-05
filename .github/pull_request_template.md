@@ -7,11 +7,11 @@ Closes #
 
 ## Type of Change
 <!-- Select all that apply by putting an 'x' in the brackets -->
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature or lab exercise (non-breaking change adding functionality)
-- [ ] 📝 Documentation update (improving guides, READMEs, or code comments)
-- [ ] ⚡ Performance improvement / refactor
-- [ ] 🔒 Security enhancement or boundary fix
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature or lab exercise (non-breaking change adding functionality)
+- [ ] Documentation update (improving guides, READMEs, or code comments)
+- [ ] Performance improvement / refactor
+- [ ] Security enhancement or boundary fix
 
 ## Verification & Testing
 <!-- How did you test your changes? Include command lines, test results, or screenshots -->
