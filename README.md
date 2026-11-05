@@ -29,12 +29,12 @@ This repository (`codemolabs/.github`) is a special GitHub meta-repository. It p
 
 ## Repository Separation: Labs vs Products
 
-The Codemo ecosystem maintains an intentional separation between educational environments and production applications:
+All COSL repositories live under the [`@codemolabs`](https://github.com/codemolabs) organization and are structured into two distinct tracks:
 
-| Category | Organization | Scope & Purpose | Target Audience |
+| Category | Scope & Purpose | Stability & Review Level | Target Audience |
 |:---|:---|:---|:---|
-| **Educational Labs** | [`@codemolabs`](https://github.com/codemolabs) | Hands-on learning exercises, guided Git sandboxes, security automation labs, and contributor practice environments. | Learners, students, and open-source contributors |
-| **Product Repositories** | [`@codemoteams`](https://github.com/codemoteams) | Production-grade software applications, flagship client media tools such as Brave-Music, and live deployed products. | End users, product engineers, and core maintainers |
+| **Educational Labs** | Hands-on learning exercises, guided Git sandboxes, security automation experiments, and practice repositories. | Low-barrier, educational walkthroughs, safe to experiment and learn | Learners, students, and new contributors |
+| **Product Repositories** | Production-grade software applications (such as [Brave-Music](https://github.com/codemolabs/Brave-Music)), client utilities, and live tools. | High stability, automated testing, strict architectural review, release tags | End users, product engineers, and core maintainers |
 
 This separation ensures that learners have a dedicated, safe environment to explore, learn Git workflows, and submit pull requests without risking production application stability.
 

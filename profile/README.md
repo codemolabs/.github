@@ -25,9 +25,9 @@ flowchart LR
 
 #### Repository Separation: Labs vs Products
 
-The Codemo ecosystem maintains a clear separation between educational environments and production applications:
-- **Educational Labs (`@codemolabs`):** Hands-on learning exercises, guided sandboxes, zero-trust experiments, and contributor pathways designed to build practical engineering skills.
-- **Product Repositories (`@codemoteams`):** Production-grade software applications, flagship client media tools such as Brave-Music, and live user-facing services under parent ecosystem standards.
+All repositories are hosted under the `@codemolabs` organization and are structured into two distinct tracks:
+- **Educational Labs:** Hands-on exercises, guided sandboxes, security experiments, and contributor pathways designed for low-friction practice and learning by doing.
+- **Product Repositories:** Production-grade software applications, including client tools like [Brave-Music](https://github.com/codemolabs/Brave-Music), built for end users with rigorous testing, architecture reviews, and stable release cycles.
 
 ### Technical Focus Areas
 
@@ -39,7 +39,7 @@ The Codemo ecosystem maintains a clear separation between educational environmen
     </td>
     <td width="50%" valign="top">
       <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Modern Applications and Media</strong><br>
-      Client and web applications, including the Brave-Music player, built for clean performance. <a href="https://github.com/codemoteams/Brave-Music">More&nbsp;&rarr;</a>
+      Client and web applications, including the Brave-Music player, built for clean performance. <a href="https://github.com/codemolabs/Brave-Music">More&nbsp;&rarr;</a>
     </td>
   </tr>
   <tr>

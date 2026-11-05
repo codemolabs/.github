@@ -4,7 +4,7 @@ Thank you for helping make open-source learning more accessible. Contributions o
 
 ## Before you start
 
-1. Check whether you are contributing to an **educational lab** under `@codemolabs` (focused on guided learning, testing, and skill building) or a **production product** under `@codemoteams` (focused on production stability, performance, and release engineering).
+1. Check whether you are contributing to an **educational lab** (focused on guided learning, testing, and skill building) or a **production product** (such as Brave-Music, focused on production stability, performance, and release engineering) within `@codemolabs`.
 2. Read the repository README and any project-specific contribution notes.
 3. Check open issues and discussions to avoid duplicating work.
 4. For a substantial change, open an issue or discussion first so maintainers and contributors can agree on scope.

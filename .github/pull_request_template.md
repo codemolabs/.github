@@ -24,5 +24,5 @@ Closes #
 - [ ] If AI-assisted, I have personally reviewed, understood, tested, and validated every line.
 - [ ] I have updated documentation to reflect my changes where applicable.
 - [ ] No secrets, private credentials, or unauthorized intellectual property are committed.
-- [ ] I confirm this contribution complies with the project's license and [Code of Conduct](https://github.com/codemoteams/.github/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I confirm this contribution complies with the project's license and [Code of Conduct](https://github.com/codemolabs/.github/blob/main/CODE_OF_CONDUCT.md).
 

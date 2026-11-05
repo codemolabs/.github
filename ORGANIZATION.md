@@ -16,9 +16,9 @@ COSL maintains a small and practical organizational structure. Additional leader
 COSL operates within the Codemo Teams ecosystem and follows applicable parent-level governance and organizational policies.
 
 ### Repository Separation: Labs vs Products
-The ecosystem maintains an intentional separation between two repository tiers:
-- **Educational Labs (`@codemolabs`):** Governed by COSL, focusing on hands-on learning, guided exercises, Git collaboration sandboxes, and safe technical experimentation.
-- **Product Repositories (`@codemoteams`):** Governed under parent Codemo Teams operations, focusing on production software applications, flagship client media software, and live releases.
+All repositories are maintained under `@codemolabs` and operate under two distinct tiers:
+- **Educational Labs:** Hands-on learning environments, guided exercises, Git collaboration sandboxes, and safe technical experimentation for learners and contributors.
+- **Product Repositories:** Production-grade software applications, flagship client media software (such as Brave-Music), and live tools requiring strict engineering review and release standards.
 
 ---
 
