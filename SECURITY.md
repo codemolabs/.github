@@ -46,5 +46,26 @@ COSL materials include educational labs covering software engineering, automatio
 - All security testing and lab exercises must be conducted **only** on systems and targets you own or have explicit written authorization to test.
 - We will not pursue legal action against researchers who discover and report vulnerabilities in good faith in compliance with this policy and without causing disruption, service outages, or data loss.
 
+---
+
+## 5. Compliance Frameworks and Repository Metadata
+
+To maintain a consistent security posture and tracking baseline across all repositories, COSL enforces the `compliance_frameworks` GitHub repository custom property:
+
+| Setting | Configuration | Purpose and Operational Rules |
+|:---|:---|:---|
+| **Property Name** | `compliance_frameworks` | Standardized tracking metadata for repository security alignment |
+| **Property Type** | Multi-select | Permits tagging multiple applicable frameworks where evaluated |
+| **Scope** | Required for all repositories | Enforced across all repositories in the organization |
+| **Default Value** | `Unassessed` | Safe baseline preventing unsupported or premature compliance claims |
+| **Permitted Options** | `PCI DSS`, `SOC 2`, `ISO 27001`, `NIST SP 800-171`, `CMMC`, `Unassessed` | Recognized industry cybersecurity and privacy frameworks |
+| **Creation Behavior** | Inherits default automatically | New repositories inherit `Unassessed` without requiring manual claims |
+| **Edit Permissions** | Disabled for repository actors | Managed exclusively by authorized organization administrators |
+
+> [!NOTE]
+> Values assigned to the `compliance_frameworks` property represent internal tracking metadata. They do not constitute formal third-party audit claims, legal warranties, or regulatory compliance certifications.
+
+---
+
 Thank you for helping keep the COSL community and our open-source software safe!
 

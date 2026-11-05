@@ -24,7 +24,7 @@ COSL learning materials are for lawful, authorized education and testing. Use se
 
 ## No warranty; use at your own risk
 
-Unless a repository license or applicable law says otherwise, materials are provided by their respective contributors “as is,” without promises that they are error-free, safe for a particular purpose, or suitable for production. Review and test code before relying on it. Contributors and maintainers may not provide support or updates.
+Unless a repository license or applicable law says otherwise, materials are provided by their respective contributors “as is,” without promises that they are error-free, safe for a particular purpose, or suitable for production. Review and test code before relying on it. Contributors and maintainers may not provide support or updates. Repository metadata, tags, and custom properties (including compliance tracking properties) serve internal administrative purposes only and do not constitute audit certifications, legal guarantees, or formal compliance warranties.
 
 ## External links and third-party services
 

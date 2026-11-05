@@ -93,6 +93,20 @@ GitHub automatically inherits files from this repository for any project in `cod
 
 ---
 
+## Organization Custom Properties: Compliance Tracking
+
+The organization enforces standardized GitHub repository custom properties to maintain security posture visibility across all repositories:
+
+| Custom Property | Type | Enforcement | Default | Allowed Values |
+|:---|:---|:---|:---|:---|
+| `compliance_frameworks` | Multi-select | Required for all repositories | `Unassessed` | `PCI DSS`, `SOC 2`, `ISO 27001`, `NIST SP 800-171`, `CMMC`, `Unassessed` |
+
+- **Inheritance:** New repositories automatically inherit `Unassessed` upon creation or transfer to prevent premature or unsupported compliance claims.
+- **Access Control:** Editing is restricted to organization administrators and cannot be altered by standard repository actors.
+- **Informational Status:** Property assignments represent internal tracking metadata, not third-party certifications or legal compliance warranties.
+
+---
+
 ## Contact & Maintainers
 
 - **Website:** [codemoteams.org](https://codemoteams.org)
