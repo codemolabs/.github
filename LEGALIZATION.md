@@ -8,7 +8,7 @@ Each repository may have its own license and notices. Read them before copying, 
 
 ## Contributions and rights
 
-Only submit material you created or are authorized to contribute. By opening a pull request, you confirm that you have the necessary rights to submit the proposed material under the project’s stated license and contribution terms, if any. A contribution does not automatically change the license of existing project material. Do not include third-party code, images, datasets, or text unless the applicable terms allow it and required attribution is included.
+Only submit material you created or are authorized to contribute. By opening a pull request, you confirm that you have the necessary rights to submit the proposed material under the project’s stated license and contribution terms, if any. A contribution does not automatically change the license of existing project material. Do not include third-party code, images, datasets, or text unless the applicable terms allow it and required attribution is included. Holding a leadership role, organizational credential, or professional certification does not alter intellectual property ownership of contributions or grant proprietary ownership over project materials beyond the applicable project license.
 
 ## Trademarks and branding
 

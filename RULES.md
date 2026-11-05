@@ -33,4 +33,4 @@ For conduct concerns, contact [cosl@codemoteams.org](mailto:cosl@codemoteams.org
 
 ## Scope and updates
 
-Project-specific rules may add detail but should not weaken these baseline expectations. COSL may update this document as the community evolves; check the repository's current version when in doubt.
+Project-specific rules may add detail but should not weaken these baseline expectations. COSL may update this document as the community evolves; check the repository's current version when in doubt. For policies regarding learning achievements, certifications, and leadership qualifications, refer to [CREDENTIALS.md](CREDENTIALS.md).

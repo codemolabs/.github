@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://codemoteams.org"><img src="https://img.shields.io/badge/Website-codemoteams.org-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://cosl.codemoteams.org"><img src="https://img.shields.io/badge/COSL%20Website-cosl.codemoteams.org-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="COSL Website"></a>
+  <a href="https://codemoteams.org"><img src="https://img.shields.io/badge/Codemo%20Teams-codemoteams.org-262626?style=flat-square&logo=google-chrome&logoColor=white" alt="Codemo Teams"></a>
   <a href="https://github.com/codemoteams"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Org"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"></a>
 </p>
@@ -40,6 +41,7 @@ This repository (`codemoteams/.github`) is a special GitHub meta-repository. It 
 │   └── pull_request_template.md       # Standard PR template with verification checklist
 ├── CODE_OF_CONDUCT.md                 # Contributor Covenant v2.1 code of conduct
 ├── CONTRIBUTING.md                    # Universal contribution guidelines & expectations
+├── CREDENTIALS.md                     # Learning, credentialing, & leadership standards
 ├── SECURITY.md                        # Coordinated vulnerability disclosure policy
 ├── SUPPORT.md                         # Support channels, community help, and contacts
 ├── RULES.md                           # Extended community rules & behavioral bounds
@@ -60,6 +62,7 @@ GitHub automatically inherits files from this repository for any project in `cod
 | `profile/README.md` | Public Organization Profile | Rendered on [`github.com/codemoteams`](https://github.com/codemoteams) |
 | `CODE_OF_CONDUCT.md` | Community Health Check | Active across all member repositories |
 | `CONTRIBUTING.md` | PR / Issue Contributor Guidance | Displayed to contributors opening PRs |
+| `CREDENTIALS.md` | Policy & Advancement Guide | Universal reference for learning & certifications |
 | `SECURITY.md` | Security Advisory Tab | Powers the Security tab across all org repos |
 | `SUPPORT.md` | Help & Community Links | Displayed under repository support menus |
 | `ISSUE_TEMPLATE/` | GitHub Issue Forms | Standardizes bug reports and lab proposals |
