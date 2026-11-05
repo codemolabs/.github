@@ -28,10 +28,10 @@ COSL's official leadership positions and authority boundaries are defined in [OR
 ## 2. Official Learning Resources
 
 COSL recommends:
-- [GitHub Skills](https://learn.github.com/skills) — practical GitHub exercises.
-- [GitHub Credentials](https://learn.github.com/credentials) — official certification catalogue.
-- [GitHub Courses](https://learn.github.com/courses) — structured learning.
-- [Microsoft Learn](https://learn.microsoft.com/training/) — technical education and examination preparation.
+- [GitHub Skills](https://learn.github.com/skills): Practical GitHub exercises.
+- [GitHub Credentials](https://learn.github.com/credentials): Official certification catalogue.
+- [GitHub Courses](https://learn.github.com/courses): Structured learning modules.
+- [Microsoft Learn](https://learn.microsoft.com/training/): Technical education and examination preparation.
 
 COSL may develop its own learning paths and connect them to practical labs and projects.
 
@@ -65,7 +65,7 @@ The following certifications may be recommended when COSL establishes a correspo
 | <a href="https://learn.github.com/credentials"><img src="media/credentials/github-advanced-security.png" width="80" align="center" alt="GitHub Advanced Security" /></a> | Security responsibilities | [GitHub Advanced Security](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
 | <a href="https://learn.github.com/credentials"><img src="media/credentials/github-actions.png" width="80" align="center" alt="GitHub Actions" /></a> | CI/CD and release engineering | [GitHub Actions](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
 | <a href="https://learn.github.com/credentials"><img src="media/credentials/github-copilot.png" width="80" align="center" alt="GitHub Copilot" /></a> | AI-assisted development | [GitHub Copilot](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
-| — | Agent engineering | [GitHub Agentic AI Developer](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
+| None | Agent engineering | [GitHub Agentic AI Developer](https://learn.github.com/credentials) | [View Catalogue](https://learn.github.com/credentials) |
 
 The exact certification names and availability must continue to be checked against the official credential catalogue.
 
@@ -159,12 +159,12 @@ flowchart LR
 ```
 
 COSL may recognize contributor development through the following progression:
-1. **Explorer** — begins learning and completes introductory exercises.
-2. **Practitioner** — demonstrates skills through labs and guided tasks.
-3. **Contributor** — makes accepted contributions.
-4. **Verified Developer** — demonstrates consistent engineering quality and responsible collaboration.
-5. **Technical Specialist** — demonstrates expertise in a technical domain.
-6. **Technical Leader** — demonstrates technical judgment, mentorship, delivery, governance responsibility, and required role-based credentials.
+1. **Explorer**: Begins learning and completes introductory exercises.
+2. **Practitioner**: Demonstrates skills through labs and guided tasks.
+3. **Contributor**: Makes accepted contributions.
+4. **Verified Developer**: Demonstrates consistent engineering quality and responsible collaboration.
+5. **Technical Specialist**: Demonstrates expertise in a technical domain.
+6. **Technical Leader**: Demonstrates technical judgment, mentorship, delivery, governance responsibility, and required role-based credentials.
 
 Progression is evidence-based and subject to authorized review. Course completion or activity volume alone does not guarantee promotion.
 
@@ -211,6 +211,6 @@ Official GitHub credential documentation and the relevant examination provider d
 ---
 
 <p align="center">
-  <sub><strong>COSL × Codemo Teams</strong> — Building Future Technical Leaders.</sub>
+  <sub><strong>COSL × Codemo Teams</strong> &bull; Building Future Technical Leaders.</sub>
 </p>
 

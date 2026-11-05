@@ -1,6 +1,6 @@
 # Contributing to COSL
 
-Thank you for helping make open-source learning more accessible. Contributions of every size are welcome—documentation, testing, bug reports, lab ideas, design feedback, and code.
+Thank you for helping make open-source learning more accessible. Contributions of every size are welcome, including documentation, testing, bug reports, lab ideas, design feedback, and code.
 
 ## Before you start
 

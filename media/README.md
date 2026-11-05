@@ -42,11 +42,15 @@ High-DPI SVG icons sourced from **Iconify** (`octicon` and `lucide` collections)
 | `community.svg` | [`icons/community.svg`](icons/community.svg) | Code of conduct & community |
 | `support.svg` | [`icons/support.svg`](icons/support.svg) | Help & discussions |
 | `legal.svg` | [`icons/legal.svg`](icons/legal.svg) | Rules & legal notices |
+| `discord.svg` | [`icons/discord.svg`](icons/discord.svg) | Discord community link |
+| `github.svg` | [`icons/github.svg`](icons/github.svg) | GitHub organization & repos |
+| `website.svg` | [`icons/website.svg`](icons/website.svg) | COSL website link |
+| `mail.svg` | [`icons/mail.svg`](icons/mail.svg) | Team contact email |
 
 ---
 
 ## Usage Guidelines
 
 1. **Aspect Ratio & Transparency:** Always preserve the original aspect ratio and transparent background. Do not stretch, distort, or place on backgrounds that compromise legibility.
-2. **Alt Text:** When referencing these assets in markdown or HTML, always provide accessible alt text (e.g., `alt="Codemo Open Source Labs (COSL) — Community Banner"`).
+2. **Alt Text:** When referencing these assets in markdown or HTML, always provide accessible alt text (for example, `alt="Codemo Open Source Labs Logo"`).
 3. **Trademark & Integrity:** These marks represent the official Codemo Open Source Labs community. Please refer to [`../LEGALIZATION.md`](../LEGALIZATION.md) for branding and trademark usage policies.

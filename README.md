@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/cosl-banner.png" alt="Codemo Open Source Labs (COSL) — Meta-Repository Banner" width="480" />
+  <img src="media/cosl-banner.png" alt="Codemo Open Source Labs: Meta-Repository Banner" width="480" />
 </p>
 
 <h1 align="center">COSL Organization Meta-Repository</h1>
