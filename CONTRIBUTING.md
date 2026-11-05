@@ -25,6 +25,7 @@ Thank you for helping make open-source learning more accessible. Contributions o
 - [ ] Documentation is updated where needed.
 - [ ] No secrets, private data, or unauthorized third-party material are included.
 - [ ] I have the right to submit this work under the repository's stated license, if any.
+- [ ] The contribution complies with our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Commit and issue guidance
 
@@ -38,6 +39,6 @@ You do not need to be an expert. Start with a question, typo, documentation clar
 
 Submitting a contribution does not guarantee acceptance. Maintainers may request changes, defer work, or close contributions that are out of scope, unsafe, unmaintained, or inconsistent with project goals. Reviews aim to improve the work, not judge the contributor.
 
-## Questions
+## Questions & Support
 
-Use the repository's Issues or Discussions where available, or contact [cosl@codemoteams.org](mailto:cosl@codemoteams.org). Please do not send sensitive security details in a public issue; coordinate privately with the relevant maintainers.
+For help and general questions, consult [SUPPORT.md](SUPPORT.md), use the repository's Issues or Discussions, or join our [Discord server](https://discord.gg/wD9d5Er7a). For security vulnerabilities, consult our [Security Policy](SECURITY.md) and contact [cosl@codemoteams.org](mailto:cosl@codemoteams.org) privately.

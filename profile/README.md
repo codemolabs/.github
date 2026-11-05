@@ -1,69 +1,109 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans-cropped.png" alt="COSL — Codemo Open Source Labs" width="620" />
+  <img src="https://raw.githubusercontent.com/codemoteams/.github/main/COSLOfficial2Trans-cropped.png" alt="Codemo Open Source Labs (COSL)" width="520" />
 </p>
 
 <h1 align="center">Open source is learned by doing.</h1>
 
-<p align="center"><em>Free labs. Real projects. A community to build with.</em></p>
-
 <p align="center">
-  <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Join%20us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join us on Discord"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20the%20Labs-262626?style=for-the-badge&logo=github&logoColor=white" alt="Explore COSL repositories"></a>
+  <em>Free labs. Real projects. A community to build with.</em>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=6D4AFF&center=true&vCenter=true&width=680&lines=Start+curious.;Build+something+real.;Learn+in+public.;Leave+open+source+better." alt="Start curious. Build something real. Learn in public. Leave open source better." /></p>
+<p align="center">
+  <a href="https://discord.gg/wD9d5Er7a"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  &nbsp;
+  <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20Labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"></a>
+  &nbsp;
+  <a href="https://codemoteams.org"><img src="https://img.shields.io/badge/Website-codemoteams.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&pause=1800&color=5865F2&center=true&vCenter=true&width=640&lines=Start+curious.;Build+something+real.;Learn+in+public.;Leave+open+source+better." alt="Start curious. Build something real. Learn in public. Leave open source better." />
+</p>
 
 ---
 
-## Why COSL exists
+### 🌟 About COSL
 
-Open source can feel like a world you need permission or experience to enter. **Codemo Open Source Labs (COSL) is here to open that door.** We make free, hands-on learning experiences that help people move from reading about technology to building with it—and from building alone to contributing together.
+Open source can often feel intimidating to enter. **Codemo Open Source Labs (COSL)** bridges the gap between learning technology and building with it. We create free, hands-on environments where developers, students, and enthusiasts move from reading theory to shipping real code—collaboratively in the open.
 
-Our mission is to make practical open-source learning accessible to everyone. Our purpose is to grow confidence through practice, turn curiosity into capability, and help more people take part in the projects shaping our shared digital world.
+```
+       [ 1. LEARN ]                [ 2. BUILD ]                [ 3. SHARE ]
+  Hands-on Labs & Curricula  ──>  Real-World Projects   ──>  Open Contributions
+```
 
-### Learn → Make → Share
+---
 
-Learn through guided labs and experimentation. Make useful things with real tools and open projects. Share what you discover, contribute back, and help the next learner begin. We value openness, thoughtful craft, kindness, and progress over perfection. A first issue, a clearer sentence, a test, a question, or a feature can all be meaningful contributions.
+### 🚀 What We Focus On
 
-## Every repository: clear docs, clear expectations
+Our initiatives span real-world software, infrastructure tools, and interactive labs:
 
-Each COSL repository should explain how to use, understand, and contribute to that project. Before opening an issue or pull request, read the repository’s `README.md` and its `docs/` directory, then follow its project-specific rules, security guidance, and license. Documentation file names and locations may vary; when information is missing or unclear, ask the maintainers before proceeding.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Systems & Security Automation</h4>
+      <p>Practical security tooling, automated hardening, Linux configurations, and zero-trust engineering labs designed for safe, hands-on learning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Modern Applications & Media</h4>
+      <p>Performance-focused client and web applications—such as <a href="https://github.com/codemoteams/Brave-Music">Brave-Music</a>—built with clean architecture and responsive user experiences.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ Developer Tooling & DevOps</h4>
+      <p>Productivity scripts, CI/CD workflows, and cross-platform utilities that make open-source development faster and more reliable.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 Open Educational Labs</h4>
+      <p>Curated, beginner-to-advanced technical challenges that walk learners through git workflows, code reviews, and software testing.</p>
+    </td>
+  </tr>
+</table>
 
-A useful baseline for each repository is:
+---
 
-| File | What it should explain |
-| --- | --- |
-| `README.md` | What the project does, who it is for, how to install or run it, and where to find more documentation. |
-| `docs/CONTRIBUTING.md` | How to set up the project, make changes, test them, and submit a contribution. |
-| `docs/RULES.md` | Project-specific requirements, prohibited changes, ownership or attribution notices, and any additional policies. |
-| `CODE_OF_CONDUCT.md` | The expected respectful behavior, how to report concerns, and how conduct issues are handled. |
-| `SECURITY.md` or `docs/SECURITY.md` | How to report vulnerabilities privately and what security boundaries contributors must preserve. |
-| `LICENSE` | The actual license terms for using, modifying, and distributing the project. Read the file in each repository; licenses can differ. |
-| `docs/LEGAL.md` (when needed) | Additional project-specific legal, privacy, trademark, or usage notices. This supplements—not replaces—the `LICENSE`. |
+### 🤝 How to Contribute
 
-Keep these documents accurate and specific to the repository. Not every project needs a separate legal-notes file, but every project should make its applicable license, contribution process, conduct expectations, and security-reporting route easy to find.
+We welcome contributions of all sizes—documentation improvements, bug fixes, automated tests, lab concepts, and new features.
 
-## What we expect from contributions
+```
+  1. EXPLORE               2. FORK & BRANCH         3. TEST & VERIFY         4. SUBMIT PR
+  Browse open repos   ──>  Create a focused   ──>   Verify locally and  ──>  Open PR using our
+  and good first issues     feature branch          review all changes       standard template
+```
 
-**No scams, harmful scripts, or unsafe changes.** Do not submit phishing or scam tools, credential theft, malware, covert data collection, unauthorized access, destructive scripts, or code that weakens a project’s security. Security-related learning and testing must stay within systems and scopes where you have explicit permission. If you find a vulnerability, use the repository’s private reporting instructions rather than publishing sensitive exploit details in a public issue.
+#### Our Contribution Principles
 
-**AI-generated and AI-assisted code is allowed.** The contributor remains responsible for every submitted line, regardless of how it was written. Be transparent when AI materially generated a contribution. Review it, understand how it works, test it, check its security and license implications, and be ready to explain and maintain it. Do not submit unreviewed output as a finished solution.
+- **Focus & Clarity:** Keep pull requests targeted to solve one clear objective.
+- **AI-Assisted Contributions:** AI tools are welcome! However, human contributors must review, understand, test, and take complete responsibility for every line submitted.
+- **Safety First:** We maintain zero tolerance for malicious code, credential scrapers, or unauthorized security exploits.
+- **Kindness & Mentorship:** Every question is valid. We prioritize constructive feedback and progress over perfection.
 
-We prioritize code that is clear, understandable, maintainable, and appropriate to the project. Changes should be tested and documented where useful. Performance matters too: avoid unnecessary complexity, dependencies, resource use, and regressions. A small, well-explained change is better than a large opaque one.
+---
 
-## Your first step
+### 📜 Community & Governance
 
-Browse the [COSL projects](https://github.com/orgs/codemoteams/repositories), choose a project that interests you, and read its own README and guidance. Start with one clear improvement. If you’re new, bring your questions and learn alongside the community.
+All projects across the COSL ecosystem follow shared community health standards:
 
-**[Join us on Discord](https://discord.gg/wD9d5Er7a)** to meet the community, ask questions, and find your next learning step.
+| Document | Purpose |
+|:---|:---|
+| 📋 [**Contributing Guide**](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) | Step-by-step contribution flow, commit standards, and PR checklist |
+| 💜 [**Code of Conduct**](https://github.com/codemoteams/.github/blob/main/CODE_OF_CONDUCT.md) | Expected behavior, inclusive environment pledge, and moderation |
+| 🛡️ [**Security Policy**](https://github.com/codemoteams/.github/blob/main/SECURITY.md) | Responsible vulnerability reporting instructions and safe harbor |
+| 💬 [**Support & Help**](https://github.com/codemoteams/.github/blob/main/SUPPORT.md) | How to ask questions, join Discord channels, and connect with maintainers |
+| ⚖️ [**Community Rules & Legal**](https://github.com/codemoteams/.github/blob/main/RULES.md) | Extended behavioral guidelines, licensing, and usage notes |
 
-## COSL community guidance
+---
 
-[Organization contribution guide](https://github.com/codemoteams/.github/blob/main/CONTRIBUTING.md) · [Community rules](https://github.com/codemoteams/.github/blob/main/RULES.md) · [General legal & usage notes](https://github.com/codemoteams/.github/blob/main/LEGALIZATION.md)
+### 🌐 Join the Movement
 
-These organization-level pages are a starting point. Repository-specific rules, security instructions, licenses, and legal notices apply to the project you are contributing to.
+<p align="center">
+  <a href="https://discord.gg/wD9d5Er7a"><strong>Join our Discord Server</strong></a> &nbsp;•&nbsp;
+  <a href="https://github.com/orgs/codemoteams/repositories"><strong>Explore All Repositories</strong></a> &nbsp;•&nbsp;
+  <a href="https://codemoteams.org"><strong>Official Website</strong></a> &nbsp;•&nbsp;
+  <a href="mailto:cosl@codemoteams.org"><strong>Email the Team</strong></a>
+</p>
 
-[Website](https://codemoteams.org) · [GitHub projects](https://github.com/orgs/codemoteams/repositories) · [Email COSL](mailto:cosl@codemoteams.org)
-
-<p align="center"><sub>Curiosity starts it. Practice builds it. Open source grows when we share it.</sub></p>
+<p align="center">
+  <sub>Curiosity starts it. Practice builds it. Open source grows when we share it.</sub>
+</p>

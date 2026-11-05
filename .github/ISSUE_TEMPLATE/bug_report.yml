@@ -1,0 +1,57 @@
+name: 🐛 Bug Report
+description: Report a reproducible bug or error in a project or lab
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting an issue! Please provide as much context as possible to help us reproduce and resolve it.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment / System Info
+      description: OS version, runtime/compiler versions (Node, Python, Go, Rust, etc.), browser (if applicable).
+      placeholder: "e.g., Ubuntu 24.04 LTS, Node.js v20.12.0, x86_64"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: A clear and concise description of what the problem is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Detailed steps to reproduce the behavior.
+      placeholder: |
+        1. Clone the repository
+        2. Run '...'
+        3. See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Logs or Screenshots
+      description: Paste terminal output, error stack traces, or attach screenshots. (Do NOT include private credentials or tokens).
+      render: shell
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Contributor Checklist
+      options:
+        - label: I have searched existing issues to ensure this is not a duplicate.
+          required: true
+        - label: I have not included any sensitive personal data, secrets, or API tokens.
+          required: true

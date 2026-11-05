@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord Community & Questions
+    url: https://discord.gg/wD9d5Er7a
+    about: Ask quick questions, discuss concepts, and collaborate with the community on Discord.
+  - name: 🛡️ Security Vulnerability Reporting
+    url: mailto:cosl@codemoteams.org
+    about: Please report security concerns privately to cosl@codemoteams.org following our Security Policy.

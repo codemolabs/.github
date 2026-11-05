@@ -1,0 +1,35 @@
+name: 💡 Feature or Lab Proposal
+description: Suggest an enhancement, new feature, or ideas for a new lab project
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea to make a project or lab better? We welcome proposals and feedback!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your proposal related to a specific problem?
+      description: A clear and concise description of what the current gap or challenge is.
+      placeholder: "I'm always frustrated when [...]"
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution or Lab Idea
+      description: Describe what you want to happen, how the feature would work, or the lab curriculum idea.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Describe any alternative solutions or features you've considered.
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Willingness to Contribute
+      options:
+        - label: I am willing to submit a Pull Request to help implement this!
