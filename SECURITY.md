@@ -47,3 +47,4 @@ COSL materials include educational labs covering software engineering, automatio
 - We will not pursue legal action against researchers who discover and report vulnerabilities in good faith in compliance with this policy and without causing disruption, service outages, or data loss.
 
 Thank you for helping keep the COSL community and our open-source software safe!
+

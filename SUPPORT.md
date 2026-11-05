@@ -37,3 +37,4 @@ For partnership questions, community moderation appeals, licensing clarification
 ## 4. Security Inquiries
 
 If you need to report a suspected vulnerability or security concern, please consult our [Security Policy](SECURITY.md) and report privately to **[cosl@codemoteams.org](mailto:cosl@codemoteams.org)** rather than opening a public issue.
+
