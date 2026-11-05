@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/orgs/codemoteams/repositories"><img src="https://img.shields.io/badge/Explore%20Labs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"></a>
   &nbsp;
-  <a href="https://codemoteams.org"><img src="https://img.shields.io/badge/Website-codemoteams.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://cosl.codemoteams.org"><img src="https://img.shields.io/badge/COSL%20Website-cosl.codemoteams.org-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="COSL Website"></a>
 </p>
 
 <p align="center">
@@ -91,7 +91,39 @@ All projects across the COSL ecosystem follow shared community health standards:
 | 💜 [**Code of Conduct**](https://github.com/codemoteams/.github/blob/main/CODE_OF_CONDUCT.md) | Expected behavior, inclusive environment pledge, and moderation |
 | 🛡️ [**Security Policy**](https://github.com/codemoteams/.github/blob/main/SECURITY.md) | Responsible vulnerability reporting instructions and safe harbor |
 | 💬 [**Support & Help**](https://github.com/codemoteams/.github/blob/main/SUPPORT.md) | How to ask questions, join Discord channels, and connect with maintainers |
+| 🎓 [**Learning & Credentials**](https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md) | Official learning paths, leadership certifications, and progression |
 | ⚖️ [**Community Rules & Legal**](https://github.com/codemoteams/.github/blob/main/RULES.md) | Extended behavioral guidelines, licensing, and usage notes |
+
+---
+
+### 🎓 Learning, Certifications & Achievements
+
+COSL supports continuous learning through practical exercises, structured study, open-source contributions, and independently verifiable professional credentials.
+
+#### Official GitHub Learning Platforms
+- [GitHub Skills](https://learn.github.com/skills) — hands-on GitHub exercises.
+- [GitHub Credentials](https://learn.github.com/credentials) — official certifications and credentials.
+- [GitHub Courses](https://learn.github.com/courses) — structured learning.
+- [Microsoft Learn](https://learn.microsoft.com/training/) — technical learning and certification preparation.
+
+#### COSL Leadership Certification Standard
+Designated COSL executive leadership and organization-level authority holders must earn **GitHub Foundations** by passing the official certification examination. Senior technical leads should pursue relevant role-specific GitHub certifications where available and applicable.
+
+A course, tutorial, learning path, or GitHub Skills exercise is a learning achievement. It is not equivalent to passing a professional certification examination.
+
+#### Learners and Contributors
+Learners and ordinary contributors are not required to purchase or pass a professional certification examination. They are encouraged to learn through GitHub Skills, official courses, COSL labs, and practical contributions to real projects.
+
+#### Achievements & Recognition
+COSL recognizes four achievement categories:
+- **Learning:** Completed exercises, courses, and learning paths.
+- **Technical:** Reviewed labs, project work, tests, and demonstrations.
+- **Open Source:** Accepted contributions, reviews, maintenance, and upstream work.
+- **Professional Certification:** Credentials earned through official examinations and verified through an issuer-supported method.
+
+Achievements may support mentorship, recognition, and progression within the Codemo Teams ecosystem. Quality, impact, reliability, and responsible collaboration matter more than activity counts.
+
+See the complete [COSL Learning, Credentials & Certification Policy](https://github.com/codemoteams/.github/blob/main/CREDENTIALS.md).
 
 ---
 
@@ -100,7 +132,8 @@ All projects across the COSL ecosystem follow shared community health standards:
 <p align="center">
   <a href="https://discord.gg/wD9d5Er7a"><strong>Join our Discord Server</strong></a> &nbsp;•&nbsp;
   <a href="https://github.com/orgs/codemoteams/repositories"><strong>Explore All Repositories</strong></a> &nbsp;•&nbsp;
-  <a href="https://codemoteams.org"><strong>Official Website</strong></a> &nbsp;•&nbsp;
+  <a href="https://cosl.codemoteams.org"><strong>COSL Website</strong></a> &nbsp;•&nbsp;
+  <a href="https://codemoteams.org"><strong>Codemo Teams</strong></a> &nbsp;•&nbsp;
   <a href="mailto:cosl@codemoteams.org"><strong>Email the Team</strong></a>
 </p>
 

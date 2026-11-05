@@ -42,3 +42,19 @@ Submitting a contribution does not guarantee acceptance. Maintainers may request
 ## Questions & Support
 
 For help and general questions, consult [SUPPORT.md](SUPPORT.md), use the repository's Issues or Discussions, or join our [Discord server](https://discord.gg/wD9d5Er7a). For security vulnerabilities, consult our [Security Policy](SECURITY.md) and contact [cosl@codemoteams.org](mailto:cosl@codemoteams.org) privately.
+
+## Learning and Professional Certification
+
+COSL encourages contributors to develop their technical skills through official learning resources and practical open-source experience.
+
+Recommended resources:
+- [GitHub Skills](https://learn.github.com/skills)
+- [GitHub Credentials](https://learn.github.com/credentials)
+- [GitHub Courses](https://learn.github.com/courses)
+- [Microsoft Learn](https://learn.microsoft.com/training/)
+
+Ordinary contributors and learners are not required to purchase or pass professional certification examinations. The mandatory GitHub Foundations examination requirement applies to designated senior COSL leadership and organization-level authority holders, not general contributors. Senior technical leads should pursue relevant role-specific credentials where applicable.
+
+A completed course, learning path, or GitHub Skills exercise is a learning achievement, not a professional certification.
+
+See [CREDENTIALS.md](CREDENTIALS.md) for the complete COSL Learning, Credentials & Certification Policy.
