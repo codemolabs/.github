@@ -34,22 +34,22 @@ All repositories are hosted under the `@codemolabs` organization and are structu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Systems and Security Automation</strong><br>
-      Practical security tools, automated hardening scripts, and zero-trust engineering labs. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Open Source Technology Enhancement</strong><br>
+      Auditing, optimizing, and modernizing established open source software. We contribute upstream to make existing community libraries, tools, and platforms faster, safer, and more maintainable.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Modern Applications and Media</strong><br>
-      Client and web applications, including the Brave-Music player, built for clean performance. <a href="https://github.com/codemolabs/Brave-Music">More&nbsp;&rarr;</a>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Practical Open Source Education</strong><br>
+      Hands-on learning environments where contributors master software engineering by building in the open. We provide structured GitHub exercises, guided labs, and constructive peer code reviews.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/tooling.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Developer Tooling and DevOps</strong><br>
-      Productivity scripts, automation utilities, and cross-platform workflows for developers. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/media-app.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Cross-Domain Products & Tooling</strong><br>
+      Engineering software across diverse technical domains, including client media applications (such as <a href="https://github.com/codemolabs/Brave-Music">Brave-Music</a>), developer utilities, and backend infrastructure.
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/labs.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Open Educational Labs</strong><br>
-      Curated technical exercises guiding contributors through Git workflows and code reviews. <a href="https://github.com/orgs/codemolabs/repositories">More&nbsp;&rarr;</a>
+      <img src="https://raw.githubusercontent.com/codemolabs/.github/main/media/icons/security.svg?v=cosl-purple" width="16" height="16" align="absmiddle" alt="" />&nbsp; <strong>Defensive Security & Malware Research</strong><br>
+      Analyzing threat mechanics and malware architectures strictly in air-gapped sandboxes for educational defense under <a href="https://github.com/codemolabs/.github/blob/main/SECURITY.md#4-educational--safe-harbor-principles">Safe Harbor Principles</a> and statutory cyber laws.
     </td>
   </tr>
 </table>

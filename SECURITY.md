@@ -44,6 +44,7 @@ We ask reporters to maintain confidentiality until a patch has been released and
 
 COSL materials include educational labs covering software engineering, automation, and security concepts. 
 - All security testing and lab exercises must be conducted **only** on systems and targets you own or have explicit written authorization to test.
+- Any security research, binary analysis, or malware mechanics studies conducted within COSL laboratories must take place strictly inside isolated, air-gapped sandboxes for defensive learning purposes, conforming to applicable cybercrime statutes and recognized good-faith research frameworks.
 - We will not pursue legal action against researchers who discover and report vulnerabilities in good faith in compliance with this policy and without causing disruption, service outages, or data loss.
 
 ---
